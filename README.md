@@ -1,7 +1,3 @@
-Below is a **clean README.md template** you can directly paste into your GitHub project. It’s written in a **professional format used in strong developer portfolios** and fintech-style projects.
-
----
-
 # 📈 Full-Stack Stock Trading Simulator
 
 A **full-stack stock trading simulator** that allows users to view real-time stock prices, simulate buying and selling stocks, track portfolio performance, and analyze profit/loss using interactive dashboards.
@@ -399,18 +395,3 @@ This project demonstrates:
 # 📜 License
 
 This project is licensed under the MIT License.
-
----
-
-💡 **Important tip:**
-Add these to your repo to make it **much stronger for recruiters**:
-
-* Architecture diagram
-* Database ER diagram
-* Demo video
-* Live deployment link
-
----
-
-
-
